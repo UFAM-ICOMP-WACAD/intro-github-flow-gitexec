@@ -104,7 +104,7 @@ function validar_cpf(cpf) {
   console.log(validar_telefone("987654321"));   // false (tamanho inválido)
   console.log(validar_telefone("9123456789"));  // false (celular sem '9' no início)
   
-  
+  //modificação no arquivo acrescentado comentário
   
 
 }
