@@ -22,10 +22,10 @@ function validar_cep(cep){
   // escreva seu código aqui
 
     // Expressão regular para validar o formato do CEP (formato XXXXX-XXX)
-    const regex = /^[0-9]{5}-[0-9]{3}$/;
+    var padrao = /^\d{5}-\d{3}$/;
 
     // Testar o CEP usando a expressão regular
-    if (regex.test(cep)) {
+    if (padrao.test(cep)) {
       return true; // O CEP é válido
     } else {
       return false; // O CEP é inválido
