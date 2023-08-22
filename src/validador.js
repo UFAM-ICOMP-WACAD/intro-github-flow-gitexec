@@ -82,27 +82,27 @@ function validar_cpf(cpf) {
   console.log(validar_cpf("111.222.333-44")); // false
   console.log(validar_cpf("000.000.000-00")); // false
   }
-  function validar_telefone(telefone) {
-    // Remover caracteres não numéricos do telefone
-    telefone = telefone.replace(/\D/g, '');
+  function validar_fone(fone) {
+    // Remover caracteres não numéricos do fone
+    fone = fone.replace(/\D/g, '');
   
-    // Verificar se o telefone tem o comprimento correto
-    if (telefone.length !== 10 && telefone.length !== 11) {
-      return false; // Telefone inválido se não tiver 10 ou 11 dígitos
+    // Verificar se o fone tem o comprimento correto
+    if (fone.length !== 10 && fone.length !== 11) {
+      return false; // fone inválido se não tiver 10 ou 11 dígitos
     }
   
-    // Verificar se o telefone começa com os dígitos corretos
-    if (telefone.length === 11 && telefone[2] !== '9') {
+    // Verificar se o fone começa com os dígitos corretos
+    if (fone.length === 11 && fone[2] !== '9') {
       return false; // Números de celular devem começar com '9'
     }
   
-    return true; // Telefone válido
+    return true; // fone válido
   }
     // Exemplos de uso
-  console.log(validar_telefone("1234567890"));   // true (telefone fixo)
-  console.log(validar_telefone("91234567890")); // true (celular)
-  console.log(validar_telefone("987654321"));   // false (tamanho inválido)
-  console.log(validar_telefone("9123456789"));  // false (celular sem '9' no início)
+  console.log(validar_fone("1234567890"));   // true (fone fixo)
+  console.log(validar_fone("91234567890")); // true (celular)
+  console.log(validar_fone("987654321"));   // false (tamanho inválido)
+  console.log(validar_fone("9123456789"));  // false (celular sem '9' no início)
   
   //modificação no arquivo acrescentado comentário
   
