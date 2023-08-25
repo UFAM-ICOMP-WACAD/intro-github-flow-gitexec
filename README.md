@@ -7,7 +7,7 @@ Validador de javascrip
 Validador de java
 
 
-Owner e Desenvoledor: Cleonice Garcia
+Owner e Desenvolvedor : Cleonice Garcia
 ![Trabalho Final git img-0005](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/7e2d8d3e-299f-456e-b232-52264c494d0c)
 ![Trabalho Final git img-0004](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/5c5c9a2c-52b3-45a1-8271-b14ec43b7558)
 ![Trabalho Final git img-0003](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/6faab429-63db-46ce-a317-842d72d051cf)
@@ -15,7 +15,7 @@ Owner e Desenvoledor: Cleonice Garcia
 ![Trabalho Final git im-0001](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/3a244e51-cb9a-4289-b95c-669f08f51d78)
 ----------------------------------------------------------------------
 
-----------Desenvoledor: Eduardo Noji------------------------------------
+----------Desenvolvedor : Eduardo Noji------------------------------------
 ![image](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/dd0c491b-ce98-41bb-aaf2-3b9864e549d9)
 ![image](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/ec0a48a6-780d-4772-b05d-610b56f642ea)
 ![image](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/f42fe762-dc3e-4cef-a867-0c97d4375c48)
@@ -24,14 +24,14 @@ Owner e Desenvoledor: Cleonice Garcia
 ![image](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/955620d9-0533-41cd-92ab-bc7044f69be6)
 
 
---------------- Desenvoledor:Carlos Daniel---------------------------------
+--------------- Desenvolvedor :Carlos Daniel---------------------------------
 ![image](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/df1618f5-0576-430f-bcda-c795211c5b16)
 ![image](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/7e0ff57a-1098-4ba0-b0a1-8e9d978af4a4)
 ![image](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/3ceef1b3-1746-4c29-9377-a491f81e5d61)
 ![image](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/8be0daf1-8608-47d8-a0d1-93d9af095881)
 ![image](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/e5cbcea0-9987-43ad-ba2f-7036a24ceb04)
 
--------------- DesenvoledorAntônio (Tonho)-------------------------------------------------------
+-------------- Desenvolvedor : Antônio (Tonho)-------------------------------------------------------
 ![image](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/e642ba21-855b-4a86-8a58-3f9f2f7bc183)
 ![image](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/6576943c-eec0-4acb-ac9f-0d8d6d50361d)
 ![image](https://github.com/UFAM-ICOMP-WACAD/intro-github-flow-gitexec/assets/11917378/4fc51bec-7b43-4168-a907-ea2d233ddcb4)
